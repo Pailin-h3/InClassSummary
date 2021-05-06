@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "365110928035",
+    "firebase_url": "https://is381-final-pailin.firebaseio.com",
+    "project_id": "is381-final-pailin",
+    "storage_bucket": "is381-final-pailin.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:365110928035:android:cb587978f0751d439ad516",
+        "android_client_info": {
+          "package_name": "com.example.final_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "365110928035-i4ein26j7ro1ev7gfghsku3f754tmlpd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5jJUTX4pyz--GocVILHs9lv6o2K9DKqc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "365110928035-i4ein26j7ro1ev7gfghsku3f754tmlpd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,3 @@
+fxl7YYj69Wkc6JDy
+
+mongodb+srv://<username>:<password>@cluster0.ylvu9.mongodb.net/<dbname>?retryWrites=true&w=majority

@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "139000112979",
+    "firebase_url": "https://protect-my-pocket-e8d88.firebaseio.com",
+    "project_id": "protect-my-pocket-e8d88",
+    "storage_bucket": "protect-my-pocket-e8d88.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:139000112979:android:9035d6c134232e804863a6",
+        "android_client_info": {
+          "package_name": "com.example.ProtectMyPocket_App"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "139000112979-nu2auftte2l520ff9681k423ku7g3888.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAAeZT7kKuxZ_UiBq6Lfu7a3oCoZdhWsVo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "139000112979-nu2auftte2l520ff9681k423ku7g3888.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

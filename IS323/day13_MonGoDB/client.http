@@ -1,0 +1,32 @@
+POST http://127.0.0.1:5000/add HTTP/1.1
+Content-Type: application/json
+
+{
+        "server_name" : "Singapore",
+        "max_user" : 20000,
+        "wallet" : 0,
+        "unit" : "SGD",
+        "address" : "Singapore"
+}
+
+
+GET http://127.0.0.1:5000/getServers HTTP/1.1
+
+
+GET http://127.0.0.1:5000/getServersByid/5f0d6d022e8fb4012c35febd HTTP/1.1
+
+
+DELETE http://127.0.0.1:5000/delServersByid/200 HTTP/1.1
+
+
+PATCH http://127.0.0.1:5000/updateServer HTTP/1.1
+Content-Type: application/json
+
+{
+        "id" : "5f0d6d022e8fb4012c35febd",
+        "server_name" : "India",
+        "max_user" : 20000,
+        "wallet" : 500,
+        "unit" : "URP",
+        "address" : "India"
+}
